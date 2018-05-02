@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "jliu\\helper\\": "src"
+            "jliu\\video\\": "src"
         },
         "files": [
             "src/helper.php"

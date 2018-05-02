@@ -2,24 +2,24 @@
 
 namespace jliu\video;
 
-use jliu\video\Base;
-use jliu\video\Hunantv;
-use jliu\video\Ifeng;
-use jliu\video\Iqiyi;
-use jliu\video\Kankan;
-use jliu\video\Ku6;
-use jliu\video\Letv;
-use jliu\video\Letv_2013;
-use jliu\video\Pps;
-use jliu\video\Pptv;
-use jliu\video\Qq;
-use jliu\video\Renren56;
-use jliu\video\Sina;
-use jliu\video\Sohu;
-use jliu\video\Tudou;
-use jliu\video\Tv189;
-use jliu\video\Youku;
-use jliu\video\Youku_2013;
+use jliu\video\Core\Base;
+use jliu\video\Core\Hunantv;
+use jliu\video\Core\Ifeng;
+use jliu\video\Core\Iqiyi;
+use jliu\video\Core\Kankan;
+use jliu\video\Core\Ku6;
+use jliu\video\Core\Letv;
+use jliu\video\Core\Letv_2013;
+use jliu\video\Core\Pps;
+use jliu\video\Core\Pptv;
+use jliu\video\Core\Qq;
+use jliu\video\Core\Renren56;
+use jliu\video\Core\Sina;
+use jliu\video\Core\Sohu;
+use jliu\video\Core\Tudou;
+use jliu\video\Core\Tv189;
+use jliu\video\Core\Youku;
+use jliu\video\Core\Youku_2013;
 
 class ParserVideo
 {
